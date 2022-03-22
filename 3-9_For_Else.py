@@ -1,5 +1,15 @@
 successful = False
 
+# for i in range(3):
+#     print("Attempt")
+
+#     if successful:
+#         print("Success")
+#         break
+
+# else:
+#     print("Attempted 3 times but failed...")
+
 for i in range(3):
     print("Attempt")
 
@@ -8,4 +18,4 @@ for i in range(3):
         break
 
 else:
-    print("Attempted 3 times but failed...")
+    print("Attempted many times but failed...")
